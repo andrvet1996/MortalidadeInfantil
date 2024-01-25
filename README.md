@@ -1,5 +1,4 @@
 # MortalidadeInfantil
-TCC sobre mortalidade infantil. Análise de base de dados usando R.Mortalidade infantil em Barueri entre 2000 e 2021 e seu combate a partir de exames laboratoriais 
 
 FRAGA, T. S. 1; JUNIOR, F. J. S. M. 1; LEITE, L. T. B. 1; MORENO, I. R. B. 1; SILVA, G. S.1; SANTOS, A. L. F. 2
 1.	Aluno(s) do Curso Técnico em Análises Clínicas – FIEB Engenho Novo– Profa. Maria Sylvia Chaluppe Mello.
@@ -11,4 +10,5 @@ RESUMO: a mortalidade infantil é um índice muito importante para a determinaç
 
 
 Palavras-chave: Má-formação. Perinatal. Óbitos. Mortalidade. R.
+
 
